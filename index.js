@@ -1,5 +1,5 @@
 import React from "react"
-import ReactDOM from "react-dom"
-import Apple from "./App" 
+import ReactDom from "react-dom"
+import App from "./App"
 
-ReactDOM.render(<Apple/> , document.getElementById("root"))
+ReactDom.render(<App/>,document.getElementById("root"))

@@ -1,7 +1,12 @@
-body{
-    background-color: aquamarine;
-}
 .button{
-    margin-right: 5px;
-    size: 50px;
+    margin-right: 10px;
+}
+
+body{
+background-color: brown;
+}
+
+span{
+    color: chartreuse;
+    font-size: 35px;
 }
